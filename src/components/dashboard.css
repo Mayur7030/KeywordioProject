@@ -1,0 +1,105 @@
+body {
+  background-color: ghostwhite;
+}
+.container {
+  gap: 5px;
+  display: grid;
+}
+
+.navbar {
+  background-color: #fff;
+  display: flex;
+  position: relative;
+  height: 40px;
+  align-items: center;
+  font-size: 15px;
+}
+.logo {
+  font-weight: bold;
+}
+.menu {
+  list-style: none;
+  position: absolute;
+  right: 10px;
+}
+.menu li {
+  display: flex;
+}
+ul {
+  padding: 0 0 0 15px;
+}
+ul:last-child {
+  cursor: pointer;
+}
+.menu button {
+  background: none;
+  border: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+th,
+td,
+tr,thead {
+  text-align: left;
+  padding: 8px;
+
+  border-bottom: 1px solid black;
+}
+.adinsight{
+  border-bottom: 1px solid black;
+}
+.mainContainer {
+  display: flex;
+  gap: 20px;
+}
+.left {
+  width: 50%;
+}
+.left table {
+  width: 100%;
+}
+
+.right {
+  width: 50%;
+  /* display: flex; */
+  border: 1px solid black;
+}
+.heading {
+  display: flex;
+  padding: 8px;
+  /* text-align: center; */
+}
+.rightlogo{
+    display: inline-block;
+    width: 90%;
+}
+.heading {
+  border-bottom: 1px solid black;
+  width: 100%;
+  display: inline-block;
+}
+.rightsrightsection {
+  display: inline-block;
+  position: absolute;
+  right: 5px;
+}
+.piechart{
+  position: relative;
+  height: 90%;
+}
+.piechart img{
+  width:auto;
+}
+.righticons{
+position: absolute;
+right: 5px;
+bottom: 5px;
+background-color: lightblue;
+border-radius: 30%;
+width: 60px;
+text-align: center;
+/* display: flex; */
+}

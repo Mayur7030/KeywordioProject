@@ -1,0 +1,59 @@
+[
+  {
+    "id": 101,
+    "Campaigns": "Cosmetics",
+    "Click": 712,
+    "Cost": 4272,
+    "Coversions": 8,
+    "Revenue": 16568
+  },
+  {
+    "id": 102,
+    "Campaigns": "Serums",
+    "Click": 3961,
+    "Cost": 27331,
+    "Coversions": 115,
+    "Revenue": 362526
+  },
+  {
+    "id": 103,
+    "Campaigns": "Facewash",
+    "Click": 9462,
+    "Cost": 76831,
+    "Coversions": 123,
+    "Revenue": 266800
+  },
+
+  {
+    "id": 104,
+    "Campaigns": "Shampoo",
+    "Click": 439,
+    "Cost": 2151,
+    "Coversions": 5,
+    "Revenue": 11029
+  },
+  {
+    "id": 105,
+    "Campaigns": "Conditioner",
+    "Click": 1680,
+    "Cost": 3864,
+    "Coversions": 49,
+    "Revenue": 175245
+  },
+  {
+    "id": 106,
+    "Campaigns": "Facewash 2",
+    "Click": 4978,
+    "Cost": 29370,
+    "Coversions": 189,
+    "Revenue": 623106
+  },
+  {
+    "id": 107,
+    "Campaigns": "Total",
+    "Click": 26510,
+    "Cost": 143819,
+    "Coversions": 489,
+    "Revenue": 1573563
+  }
+]
